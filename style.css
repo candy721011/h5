@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif; /* 设置字体 */
+    text-align: center; /* 内容居中显示 */
+    margin-top: 50px; /* 上边距 */
+}
+
+button {
+    padding: 10px 20px; /* 设置按钮内边距 */
+    font-size: 16px; /* 设置字体大小 */
+}
